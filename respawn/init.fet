@@ -1,0 +1,7 @@
+# settings
+shell:zsh
+shell:bash
+type:keybind
+
+# setfunc
+setfunc:respawn/respawn:execute(echo 1 >| ~/.fet/.status/.respawn_respawn.status)+abort
