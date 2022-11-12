@@ -7,4 +7,4 @@ Respawn from the directory which `fet` command executed.
 
 ## Installation
 1. Move `respawn/` to `~/.fet/plugins`
-1. Set keybind by editing `~/.fet/condfig-zsh`, `~/.fet/config-bash`
+1. Set keybind by editing `~/.fet/condfig-zsh`, `~/.fet/config-bash` (Recommend: `bindkey:alt-Bspace:respawn/respawn` )
